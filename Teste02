@@ -38,7 +38,7 @@ http://ge.server.kyankee.live/HD_DISCOVERY_KIDS_ALTER/video.m3u8?token=b3bdb91b6
 #EXTINF:-1 type="stream" tvg-id="Discovery Science HD" tvg-logo="https://i.ibb.co/cJwdX8C/discoveryscienceb.png" group-title="Documentario",Discovery Science HD
 http://us12.server.kktango.xyz/HD_DISCOVERY_SCIENCE/video.m3u8?token=b3bdb91b6409ff57b98fccc1ee52a358
 #EXTINF:-1 type="stream" tvg-id="Discovery Theater HD" tvg-logo="https://i.ibb.co/z2JDsg0/discoverytheater.png" group-title="Documentario",Discovery Theater HD
-http://ge.server.kuniform.live/HD_DISCOVERY_THEATER/video.m3u8?token=b3bdb91b6409ff57b98fccc1ee52a358
+http://us12.server.kppapa.xyz/HD_GLOBO_RJ/video.m3u8?token=b3bdb91b6409ff57b98fccc1ee52a358
 #EXTINF:-1 type="stream" tvg-id="Discovery World HD" tvg-logo="https://i.ibb.co/yYCzY9k/discoveryworld.png" group-title="Documentario",Discovery World HD
 http://pl.server.kbravo.xyz/HD_DISCOVERY_WORLD/video.m3u8?token=b3bdb91b6409ff57b98fccc1ee52a358
 #EXTINF:-1 type="stream" tvg-id="Disney Channel HD" tvg-logo="https://i.ibb.co/k1mR5zz/disney.png" group-title="Infantil",Disney Channel HD
