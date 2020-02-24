@@ -25,7 +25,7 @@ http://us12.server.kpmike.xyz/HD_CINEMAX_ALTER/video.m3u8?token=b3bdb91b6409ff57
 #EXTINF:-1 type="stream" tvg-id="Combate HD" tvg-logo="https://i.ibb.co/HzWqMFR/combate.png" group-title="Esporte",Combate HD
 http://us13.server.khotel.store/SD_COMBATE/video.m3u8?token=b3bdb91b6409ff57b98fccc1ee52a358
 #EXTINF:-1 type="stream" tvg-id="Comedy Central HD" tvg-logo="https://i.ibb.co/Jxy45YQ/comedycentralb.png" group-title="Variedade e Musica",Comedy Central HD
-http://us13.server.kcharlie.live/SD_COMEDY_CENTRAL/video.m3u8?token=b3bdb91b6409ff57b98fccc1ee52a358
+http://us11.kromeo.live/HD_COMEDY_CENTRAL/video.m3u8?token=b3bdb91b6409ff57b98fccc1ee52a358
 #EXTINF:-1 type="stream" tvg-id="Discovery Channel HD" tvg-logo="https://i.ibb.co/8x3TjWH/discoverychannelb.png" group-title="Documentario",Discovery Channel HD
 http://us13.server.kcharlie.live/HD_DISCOVERY/video.m3u8?token=b3bdb91b6409ff57b98fccc1ee52a358
 #EXTINF:-1 type="stream" tvg-id="Discovery Civilization HD" tvg-logo="https://i.ibb.co/mcBYLpp/discoverycivilizationb.png" group-title="Documentario",Discovery Civilization HD
