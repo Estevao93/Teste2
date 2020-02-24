@@ -1,5 +1,6 @@
 #EXTM3U
-
+#EXTINF:-1 type="stream" tvg-id="Globo Rio HD" tvg-logo="https://i.ibb.co/dcFy14L/globorj.png" group-title="TV Aberta",Globo Rio HD
+http://us.kgolf.live/FHD_GLOBO_RJ/video.m3u8?token=b3bdb91b6409ff57b98fccc1ee52a358
 #EXTINF:-1 type="stream" tvg-id="A&E HD" tvg-logo="https://i.ibb.co/F75tqwv/aande.png" group-title="Filme e Serie",A&E HD
 http://us12.server.kppapa.xyz/HD_AE/video.m3u8?token=b3bdb91b6409ff57b98fccc1ee52a358
 #EXTINF:-1 type="stream" tvg-id="AMC HD" tvg-logo="https://i.ibb.co/g7FpZ74/amc.png" group-title="Filme e Serie",AMC HD
