@@ -118,6 +118,8 @@ http://lb.kstream.org/aovivo/HD_TC_ACTION/video.m3u8?token=b3bdb91b6409ff57b98fc
 http://us12.server.kecho.store/HD_TC_CULT/video.m3u8?token=b3bdb91b6409ff57b98fccc1ee52a358
 #EXTINF:-1 type="stream" tvg-id="Telecine Pipoca HD" tvg-logo="https://i.ibb.co/2cxgKRj/tcpipocab.png" group-title="Filme e Serie",Telecine Pipoca HD
 http://pl.server.kkfoxtrot.xyz/HD_TC_PIPOCA_ALTER/video.m3u8?token=b3bdb91b6409ff57b98fccc1ee52a358
+#EXTINF:-1 type="stream" tvg-id="Telecine Premium HD" tvg-logo="https://i.ibb.co/r2YxHDW/tcpremiumb.png" group-title="Filme e Serie",Telecine Premium HD
+http://us11.kgolf.store/HD_TC_PREMIUM/video.m3u8?token=b3bdb91b6409ff57b98fccc1ee52a358
 #EXTINF:-1 type="stream" tvg-id="Telecine Touch HD" tvg-logo="https://i.ibb.co/2P8hGVv/tctouchb.png" group-title="Filme e Serie",Telecine Touch HD
 http://us13.server.kpkilo.xyz/HD_TC_TOUCH/video.m3u8?token=b3bdb91b6409ff57b98fccc1ee52a358
 #EXTINF:-1 type="stream" tvg-id="Tooncast HD" tvg-logo="https://i.ibb.co/9YDb4fW/tooncast.png" group-title="Infantil",Tooncast HD
