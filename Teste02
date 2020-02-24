@@ -41,7 +41,7 @@ http://ge.server.kuniform.live/HD_DISCOVERY_THEATER/video.m3u8?token=b3bdb91b640
 #EXTINF:-1 type="stream" tvg-id="Discovery World HD" tvg-logo="https://i.ibb.co/yYCzY9k/discoveryworld.png" group-title="Documentario",Discovery World HD
 http://pl.server.kbravo.xyz/HD_DISCOVERY_WORLD/video.m3u8?token=b3bdb91b6409ff57b98fccc1ee52a358
 #EXTINF:-1 type="stream" tvg-id="Disney Channel HD" tvg-logo="https://i.ibb.co/k1mR5zz/disney.png" group-title="Infantil",Disney Channel HD
-http://ge.server.kuniform.live/SD_DISNEY/video.m3u8?token=b3bdb91b6409ff57b98fccc1ee52a358
+http://us.server.kfoxtrot.live/HD_DISNEY_ALTER/video.m3u8?token=b3bdb91b6409ff57b98fccc1ee52a358
 #EXTINF:-1 type="stream" tvg-id="Disney JR HD" tvg-logo="https://i.ibb.co/0MBKmFY/disneyjuniorb.png" group-title="Infantil",Disney JR HD
 http://us13.server.kkyankee.xyz/SD_DISNEY_JR/video.m3u8?token=b3bdb91b6409ff57b98fccc1ee52a358
 #EXTINF:-1 type="stream" tvg-id="Disney XD HD" tvg-logo="https://i.ibb.co/KqXhhC2/disneyxd.png" group-title="Infantil",Disney XD HD
