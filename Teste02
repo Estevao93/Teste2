@@ -70,7 +70,7 @@ http://us13.server.knovember.live/HD_HBO_2/video.m3u8?token=1780a4afbb1db457da0b
 #EXTINF:-1 type="stream" tvg-id="HBO Family HD" tvg-logo="https://i.ibb.co/kxNkVc1/hbofamily.png" group-title="Filme e Serie",HBO Family HD
 http://us13.server.knovember.live/HD_HBO_FAMILLY_ALTER/video.m3u8?token=1780a4afbb1db457da0bccb58e379177
 #EXTINF:-1 type="stream" tvg-id="HBO HD" tvg-logo="https://i.ibb.co/7tz9V3n/hbo.png" group-title="Filme e Serie",HBO HD
-http://us13.server.kpkilo.xyz/SD_HBO/video.m3u8?token=1780a4afbb1db457da0bccb58e379177
+http://us12.server.kposcar.xyz/HD_HBO_1/video.m3u8?token=1780a4afbb1db457da0bccb58e379177
 #EXTINF:-1 type="stream" tvg-id="HBO Plus HD" tvg-logo="https://i.ibb.co/JHzz2yN/hboplus.png" group-title="Filme e Serie",HBO Plus HD
 http://ge2.server.kzulu.live/HD_HBO_PLUS/video.m3u8?token=1780a4afbb1db457da0bccb58e379177
 #EXTINF:-1 type="stream" tvg-id="HBO Signature HD" tvg-logo="https://i.ibb.co/bQp2cq4/hbosignatureb.png" group-title="Filme e Serie",HBO Signature HD
